@@ -42,3 +42,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 /SingleFileHTTPServer/nbproject/private/
+/SingleFileHTTPServer/build/
+/SingleFileHTTPServer/dist/
